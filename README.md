@@ -1,3 +1,5 @@
+** NOT MAITAINED - SEE https://github.com/devops-works/ansible-haproxy **
+
 haproxy Ansible playbook
 ========================
 
